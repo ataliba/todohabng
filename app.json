@@ -1,0 +1,6 @@
+{
+  "name": "TodoHab",
+  "description": "A simple webservice to link Habitica and Todoist using the power of IFTTT",
+  "repository": "https://github.com/ataliba/todohab",
+  "addons": []
+}
